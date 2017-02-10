@@ -1,7 +1,6 @@
 # AngularJs Pagination -- Want to be the best Pagination 
 
-Since name for a pagination is boring, so I decide name it to tm.I'm not good at English, wish you you catch what I said And help me improve my English.
-
+Since name for a pagination is boring, so I decide name it to tm.I'm not good at English, wish you you catch what I said And help me improve my English.（分页）
 ## tm.pagination -- A very simple and useful pagination in AngularJs
 Online demo [tm.pagination](http://demo.miaoyueyue.com/js/ng/AngularJs-UI/demo/pagination.html)
 
